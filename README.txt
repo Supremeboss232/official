@@ -1,0 +1,1 @@
+Contents:\n- frontend/: static prototype (index.html, styles.css, app.js)\n- backend/: Node/Express demo API (index.js, package.json)\nHow to run backend:\n  cd backend\n  npm install\n  npm run dev\nOpen frontend/index.html in a browser for the static demo.
